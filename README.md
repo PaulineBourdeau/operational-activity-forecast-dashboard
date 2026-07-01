@@ -1,5 +1,6 @@
 # operational-activity-forecast-dashboard
 Decision-support dashboard for workload forecasting and workforce capacity planning developed in Excel.
+<img width="1408" height="771" alt="image" src="https://github.com/user-attachments/assets/7d14311c-d807-4bca-a872-3b9274f8ea0c" />
 
 # PROJET
 
